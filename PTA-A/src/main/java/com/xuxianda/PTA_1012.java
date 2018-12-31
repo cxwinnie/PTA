@@ -3,9 +3,9 @@ package com.xuxianda;
 import java.util.Scanner;
 
 /**
- * Created by Xianda Xu on 2018/12/30.
+ * Created by Xianda Xu on 2018/12/31.
  */
-public class Main {
+public class PTA_1012 {
 
     public static void main(String[] args) {
         int A1=0,A2=0,A3=0,A4Count=0,A5=0,A2Flag=0;
