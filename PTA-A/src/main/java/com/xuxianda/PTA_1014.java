@@ -3,9 +3,10 @@ package com.xuxianda;
 import java.util.Scanner;
 
 /**
- * Created by Xianda Xu on 2018/12/30.
+ * Created by Xianda Xu on 2018/12/31.
  */
-public class Main {
+public class PTA_1014 {
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String first = scanner.nextLine();
@@ -64,4 +65,5 @@ public class Main {
             }
         }
     }
+
 }
